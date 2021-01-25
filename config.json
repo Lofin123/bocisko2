@@ -1,0 +1,9 @@
+{
+  "ownerId": "350557562644725763",
+  "botToken": "Nzk5NDEyMTcwOTE1MDUzNTk4.YADMmQ.BRr61z2mH3LlyUOJXfyd6O8lJlg",
+  "prefix": "!",
+  "serverAdress": "http://176.9.136.93:31426/players.json",
+  "serverDescription": "/64 Graczy",
+  "serverOffline": "Serwer offline",
+  "refreshTime": 5000
+}
